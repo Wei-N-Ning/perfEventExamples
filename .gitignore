@@ -1,6 +1,6 @@
 build
 .idea
-cmake-debug-build
+cmake-build-debug/
 *pyc
 *~
 
